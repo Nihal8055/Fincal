@@ -71,9 +71,6 @@ Tracks assets such as:
 
 Fetches real time stock data using **Yahoo Finance API**
 
-### 🤖 AI Financial Advisor
-
-Users can ask financial questions powered by **AI assistant**
 
 ---
 
